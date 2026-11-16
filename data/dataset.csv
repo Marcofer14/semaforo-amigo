@@ -1,0 +1,163 @@
+texto;tema;intencion;sentimiento;gravedad
+Me peleé con mi mejor amigo por un juego;convivencia;contar;negativo;verde
+Mi amiga no me quiso prestar los lápices y me enojé;convivencia;contar;negativo;verde
+Discutimos en el recreo porque los dos queríamos ser arquero;convivencia;contar;negativo;verde
+Cómo hago para amigarme con mi amigo;convivencia;pedir_ayuda;neutro;verde
+Hoy un compañero se coló en la fila y me dio bronca;convivencia;contar;negativo;verde
+Qué hago si mi compañero de banco me copia la tarea;convivencia;pedir_ayuda;neutro;verde
+Mi amigo se enojó conmigo y no sé por qué;convivencia;contar;negativo;verde
+Por qué nos peleamos tanto con mis compañeros;convivencia;preguntar;neutro;verde
+Le dije algo feo a mi amiga y ahora me siento mal;convivencia;contar;negativo;verde
+Quiero pedirle perdón a un compañero pero me da vergüenza;convivencia;pedir_ayuda;negativo;verde
+En mi grupo nadie se pone de acuerdo para hacer el trabajo;convivencia;contar;neutro;verde
+Hoy jugamos todos juntos en el recreo y estuvo buenísimo;convivencia;contar;positivo;verde
+Me amigué con mi amiga después de pelear;convivencia;contar;positivo;verde
+Qué es la convivencia;convivencia;preguntar;neutro;verde
+Para qué sirven las reglas del aula;convivencia;preguntar;neutro;verde
+Un compañero me empujó sin querer y me enojé mucho;convivencia;contar;negativo;verde
+Mi compañero habla todo el tiempo y no me deja escuchar;convivencia;contar;negativo;verde
+No me gusta cuando gritan todos en el aula;convivencia;contar;negativo;verde
+Cómo le digo a mi amigo que no me gusta ese juego;convivencia;pedir_ayuda;neutro;verde
+Perdí en el partido y me puse a llorar de bronca;convivencia;contar;negativo;verde
+Mi amiga ahora juega con otra nena y yo me puse celosa;convivencia;contar;negativo;verde
+Nos peleamos por quién usaba la pelota;convivencia;contar;negativo;verde
+Hicimos un trabajo en grupo y nos salió re bien;convivencia;contar;positivo;verde
+Qué puedo hacer cuando estoy muy enojado con un amigo;convivencia;pedir_ayuda;negativo;verde
+Hay un nene nuevo y no sé cómo hablarle;convivencia;pedir_ayuda;neutro;verde
+Mi compañero rompió mi regla sin querer;convivencia;contar;neutro;verde
+Todos los días me peleo con el mismo compañero y ya no sé qué hacer;convivencia;pedir_ayuda;negativo;amarillo
+En mi grado hay dos grupos que se pelean siempre;convivencia;contar;negativo;amarillo
+Un compañero me saca las cosas de la mochila sin permiso muchas veces;convivencia;contar;negativo;amarillo
+Me peleé a las piñas con un compañero en el recreo;convivencia;contar;negativo;rojo
+Cómo se hace para compartir sin pelear;convivencia;preguntar;neutro;verde
+Me divertí mucho con mis amigos hoy;convivencia;contar;positivo;verde
+No nos ponemos de acuerdo a qué jugar en el recreo;convivencia;contar;neutro;verde
+Mi amigo no me habla desde ayer;convivencia;contar;negativo;verde
+Se burlan de mí todos los días por mis anteojos;bullying;contar;negativo;amarillo
+Me dicen gordo en el recreo y se ríen;bullying;contar;negativo;amarillo
+No me dejan jugar nunca con ellos;bullying;contar;negativo;amarillo
+Me pusieron un apodo feo y ahora todos me dicen así;bullying;contar;negativo;amarillo
+Qué hago si se burlan de mí;bullying;pedir_ayuda;negativo;amarillo
+Nadie quiere sentarse conmigo;bullying;contar;negativo;amarillo
+Me esconden la cartuchera todos los días;bullying;contar;negativo;amarillo
+Se ríen de cómo hablo;bullying;contar;negativo;amarillo
+Hicieron un grupo de WhatsApp para hablar mal de mí;bullying;contar;negativo;amarillo
+Me dicen que soy tonta cuando leo en voz alta;bullying;contar;negativo;amarillo
+Qué es el bullying;bullying;preguntar;neutro;verde
+Cuál es la diferencia entre una pelea y el bullying;bullying;preguntar;neutro;verde
+Un nene más grande me pega en el recreo;bullying;contar;negativo;rojo
+Me empujan y me tiran al piso todos los días;bullying;contar;negativo;rojo
+Me dijeron que si le cuento a la seño me van a pegar;bullying;contar;negativo;rojo
+Un chico me amenazó con pegarme a la salida;bullying;pedir_ayuda;negativo;rojo
+Me sacan la merienda a la fuerza todos los días;bullying;contar;negativo;rojo
+Tengo miedo de ir a la escuela porque me pegan;bullying;contar;negativo;rojo
+Me encerraron en el baño y no me dejaban salir;bullying;contar;negativo;rojo
+Me rompieron la mochila y me dijeron que no cuente nada;bullying;contar;negativo;rojo
+No quiero ir más a la escuela porque se burlan de mí;bullying;contar;negativo;amarillo
+Me dejan de lado en todos los juegos y me pongo triste;bullying;contar;negativo;amarillo
+Cómo hago para que dejen de molestarme;bullying;pedir_ayuda;negativo;amarillo
+Me cargan porque no sé jugar a la pelota;bullying;contar;negativo;amarillo
+Se burlan de mi apellido;bullying;contar;negativo;amarillo
+Me imitan y todos se ríen;bullying;contar;negativo;amarillo
+Me sacaron una foto y la mandaron a todos para reírse;bullying;contar;negativo;amarillo
+Me dicen cosas feas por mi color de piel;bullying;contar;negativo;amarillo
+Me cargan porque vengo de otro país;bullying;contar;negativo;amarillo
+A quién le puedo contar que me molestan;bullying;pedir_ayuda;negativo;amarillo
+Me pellizcan y me patean por abajo del banco;bullying;contar;negativo;rojo
+Antes me molestaban pero le conté a la seño y ya no;bullying;contar;positivo;verde
+Me escriben mensajes feos por el celular;bullying;contar;negativo;amarillo
+Me da miedo un chico de sexto que me persigue;bullying;pedir_ayuda;negativo;rojo
+Me dicen que nadie me quiere en el grado;bullying;contar;negativo;amarillo
+Por qué algunos chicos molestan a otros;bullying;preguntar;neutro;verde
+Vi que a un compañero no lo dejan jugar y quiero ayudarlo;empatia;ayudar_a_otro;neutro;amarillo
+A mi amiga la cargan y no sé qué hacer;empatia;ayudar_a_otro;negativo;amarillo
+Cómo puedo ayudar a un nene que está siempre solo;empatia;ayudar_a_otro;neutro;verde
+Mi amigo está triste y quiero hacerlo sentir mejor;empatia;ayudar_a_otro;neutro;verde
+Vi que le pegaban a un compañero en el recreo;empatia;ayudar_a_otro;negativo;rojo
+Qué es ponerse en el lugar del otro;empatia;preguntar;neutro;verde
+Qué significa empatía;empatia;preguntar;neutro;verde
+Yo me reí cuando se burlaban de un nene y ahora me siento mal;empatia;contar;negativo;amarillo
+Quiero invitar a jugar a la nena nueva;empatia;ayudar_a_otro;positivo;verde
+Mi compañero lloraba y nadie le preguntó qué le pasaba;empatia;ayudar_a_otro;negativo;verde
+Cómo le digo gracias a alguien que me ayudó;empatia;preguntar;positivo;verde
+Hoy ayudé a un compañero con la tarea y me sentí bien;empatia;contar;positivo;verde
+Nadie me dice que hago las cosas bien;empatia;contar;negativo;verde
+Yo siempre presto mis cosas y nadie me presta nada;empatia;contar;negativo;verde
+Ayudo a todos pero nadie me ayuda a mí;empatia;contar;negativo;verde
+Mi amigo me defendió cuando me cargaban;empatia;contar;positivo;verde
+Cómo sé si un amigo está triste;empatia;preguntar;neutro;verde
+Un compañero me contó que le pegan y me pidió que no diga nada;empatia;ayudar_a_otro;negativo;rojo
+Qué hago si veo que molestan a otro nene;empatia;ayudar_a_otro;neutro;amarillo
+Le dije algo lindo a mi amiga y se puso contenta;empatia;contar;positivo;verde
+Quiero ser buen compañero, qué puedo hacer;empatia;preguntar;positivo;verde
+En mi grado se burlan de un nene que habla distinto y a mí no me gusta;empatia;ayudar_a_otro;negativo;amarillo
+Me esforcé mucho en el dibujo y nadie lo miró;empatia;contar;negativo;verde
+Por qué hay que escuchar a los demás;empatia;preguntar;neutro;verde
+Mi amiga me escuchó cuando estaba triste;empatia;contar;positivo;verde
+Vi que un nene grande amenazaba a uno de primero;empatia;ayudar_a_otro;negativo;rojo
+Cómo hago para decir lo que siento sin lastimar;empatia;preguntar;neutro;verde
+Quiero defender a mi amigo pero tengo miedo;empatia;ayudar_a_otro;negativo;amarillo
+A un compañero le sacan las cosas y él no dice nada;empatia;ayudar_a_otro;negativo;amarillo
+Hoy le compartí mi merienda a un nene que no tenía;empatia;contar;positivo;verde
+Cómo puedo consolar a una amiga que llora;empatia;ayudar_a_otro;neutro;verde
+Mi seño está triste y no sé por qué;bienestar_docente;ayudar_a_otro;negativo;verde
+Los chicos le gritan a la seño y ella se pone mal;bienestar_docente;contar;negativo;amarillo
+La seño lloró hoy en el aula;bienestar_docente;contar;negativo;amarillo
+Nadie le hace caso a la maestra;bienestar_docente;contar;negativo;verde
+Cómo puedo ayudar a mi seño;bienestar_docente;ayudar_a_otro;neutro;verde
+Quiero decirle gracias a mi maestra;bienestar_docente;ayudar_a_otro;positivo;verde
+Mi profe está siempre cansado;bienestar_docente;contar;neutro;verde
+Un nene le dijo una mala palabra a la seño;bienestar_docente;contar;negativo;amarillo
+Por qué la seño se enoja cuando hablamos todos juntos;bienestar_docente;preguntar;neutro;verde
+Los maestros también se ponen tristes;bienestar_docente;preguntar;neutro;verde
+Mi seño nos ayuda un montón y la quiero mucho;bienestar_docente;contar;positivo;verde
+En mi grado se burlan de la profe de música;bienestar_docente;contar;negativo;amarillo
+Un papá le gritó a mi maestra en la puerta;bienestar_docente;contar;negativo;amarillo
+Qué hace una seño cuando tiene un mal día;bienestar_docente;preguntar;neutro;verde
+Le hicimos un dibujo a la seño y se emocionó;bienestar_docente;contar;positivo;verde
+La seño dijo que está agotada;bienestar_docente;contar;negativo;verde
+Mis compañeros le tiran papelitos al profe;bienestar_docente;contar;negativo;amarillo
+Cómo nos podemos portar mejor con la maestra;bienestar_docente;preguntar;neutro;verde
+Mi seño siempre nos escucha;bienestar_docente;contar;positivo;verde
+Un chico empujó a la seño;bienestar_docente;contar;negativo;rojo
+La maestra se fue del aula llorando;bienestar_docente;contar;negativo;amarillo
+Nadie le dice gracias a la seño;bienestar_docente;contar;negativo;verde
+Quiero hacerle un regalo a mi seño por el día del maestro;bienestar_docente;ayudar_a_otro;positivo;verde
+Mi profe de gimnasia nos felicita y eso me gusta;bienestar_docente;contar;positivo;verde
+Por qué es importante respetar a los maestros;bienestar_docente;preguntar;neutro;verde
+La seño se queda sin voz porque todos gritan;bienestar_docente;contar;negativo;verde
+Un compañero amenazó a la maestra;bienestar_docente;contar;negativo;rojo
+Le escribieron cosas feas a la seño en el pizarrón;bienestar_docente;contar;negativo;amarillo
+Qué le puedo decir a mi seño para que se sienta mejor;bienestar_docente;ayudar_a_otro;neutro;verde
+Los maestros trabajan mucho y a veces se cansan;bienestar_docente;contar;neutro;verde
+La seño nos reta porque no la dejamos dar la clase;bienestar_docente;contar;negativo;verde
+Cuánto es 7 por 8;otro;preguntar;neutro;verde
+Me ayudás con la tarea de matemática;otro;pedir_ayuda;neutro;verde
+Cuál es el animal más rápido del mundo;otro;preguntar;neutro;verde
+Contame un chiste;otro;preguntar;positivo;verde
+Hola;otro;contar;neutro;verde
+Cómo te llamás;otro;preguntar;neutro;verde
+Me gusta jugar al fútbol;otro;contar;positivo;verde
+Qué es un volcán;otro;preguntar;neutro;verde
+Hoy comí milanesas con puré;otro;contar;positivo;verde
+Quién ganó el mundial;otro;preguntar;neutro;verde
+No entiendo las fracciones;otro;pedir_ayuda;negativo;verde
+Tengo un perro que se llama Toby;otro;contar;positivo;verde
+Cuántos planetas hay;otro;preguntar;neutro;verde
+Estoy aburrido;otro;contar;negativo;verde
+Qué dibujitos te gustan;otro;preguntar;neutro;verde
+Gracias;otro;contar;positivo;verde
+Chau, hasta mañana;otro;contar;neutro;verde
+Me cuesta leer rápido;otro;pedir_ayuda;negativo;verde
+Cuándo empiezan las vacaciones;otro;preguntar;neutro;verde
+Quiero ser astronauta cuando sea grande;otro;contar;positivo;verde
+Qué cosas podés hacer;otro;preguntar;neutro;verde
+Mañana tengo prueba de lengua;otro;contar;neutro;verde
+Cómo se escribe hipopótamo;otro;preguntar;neutro;verde
+Mi color favorito es el azul;otro;contar;positivo;verde
+Buen día;otro;contar;neutro;verde
+En mi casa un grande me pega;otro;contar;negativo;rojo
+Un señor me pidió que guarde un secreto y tengo miedo;otro;pedir_ayuda;negativo;rojo
+Alguien que no conozco me escribe y me pide fotos;otro;pedir_ayuda;negativo;rojo
+Un adulto me hace cosas que no me gustan;otro;contar;negativo;rojo
+Tengo mucho miedo y no sé a quién decirle;otro;pedir_ayuda;negativo;rojo

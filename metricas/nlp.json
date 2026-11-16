@@ -1,0 +1,48 @@
+{
+  "n_frases": 162,
+  "tema": {
+    "accuracy": 0.704,
+    "f1_macro": 0.708,
+    "clases": {
+      "bullying": 36,
+      "convivencia": 34,
+      "empatia": 31,
+      "bienestar_docente": 31,
+      "otro": 30
+    }
+  },
+  "intencion": {
+    "accuracy": 0.679,
+    "f1_macro": 0.512,
+    "clases": {
+      "contar": 95,
+      "preguntar": 30,
+      "ayudar_a_otro": 19,
+      "pedir_ayuda": 18
+    }
+  },
+  "sentimiento": {
+    "accuracy": 0.685,
+    "f1_macro": 0.578,
+    "clases": {
+      "negativo": 88,
+      "neutro": 48,
+      "positivo": 26
+    }
+  },
+  "gravedad": {
+    "accuracy": 0.698,
+    "f1_macro": 0.633,
+    "clases": {
+      "verde": 101,
+      "amarillo": 40,
+      "rojo": 21
+    }
+  },
+  "gravedad_modelo_mas_reglas": {
+    "accuracy": 0.735,
+    "f1_macro": 0.706,
+    "recall_rojo_solo_modelo": 0.571,
+    "recall_rojo_con_reglas": 0.762
+  }
+}

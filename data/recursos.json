@@ -1,0 +1,108 @@
+{
+  "_nota": "Solo líneas verificadas en la fuente indicada. Antes de la defensa: volver a chequear vigencia y horario de cada una. No agregar números sin fuente.",
+  "generales": [
+    {
+      "nombre": "Un adulto de confianza",
+      "para_chicos": "Contale a un **adulto de confianza**: mamá, papá, un abuelo o tu seño."
+    },
+    {
+      "nombre": "La escuela",
+      "para_chicos": "En la escuela podés hablar con **tu seño o con la dirección**. Su trabajo es cuidarte."
+    }
+  ],
+  "paises": {
+    "argentina": [
+      {
+        "id": "911",
+        "nombre": "911 · Emergencias",
+        "numero": "911",
+        "emoji": "🚓",
+        "para_chicos": "Si hay **peligro ahora mismo**, llamá al **911** (policía y ambulancia) o pedile a un adulto que llame.",
+        "detalle": "Central de Emergencias Nacional: policía o ambulancia. Algunas provincias usan además otros números locales.",
+        "temas": [
+          "peligro",
+          "riesgo_de_vida",
+          "adulto_que_lastima",
+          "violencia_grave"
+        ],
+        "fuente": "https://www.argentina.gob.ar/tema/emergencias",
+        "verificado": "2026-11-16"
+      },
+      {
+        "id": "102",
+        "nombre": "Línea 102 · La línea de los chicos",
+        "numero": "102",
+        "emoji": "🧒",
+        "para_chicos": "Podés llamar **gratis al 102**. Ahí hay personas que escuchan y ayudan a chicos y chicas.",
+        "detalle": "Servicio gratuito y confidencial de escucha y orientación sobre derechos de niñas, niños y adolescentes. Lo gestiona cada provincia; el horario puede variar (en CABA, 24 h).",
+        "temas": [
+          "peligro",
+          "riesgo_de_vida",
+          "adulto_que_lastima",
+          "contacto_peligroso",
+          "violencia_grave",
+          "bullying",
+          "general"
+        ],
+        "fuente": "https://www.argentina.gob.ar/desarrollosocial/linea102/chicas-y-chicos",
+        "verificado": "2026-11-16"
+      },
+      {
+        "id": "convivencia",
+        "nombre": "Convivencia Escolar · 0800-222-1197",
+        "numero": "0800-222-1197",
+        "emoji": "🏫",
+        "para_chicos": "Si te molestan en la escuela, un adulto puede llamar **gratis al 0800-222-1197** para pedir ayuda.",
+        "detalle": "Línea gratuita del Ministerio de Educación de la Nación (Ley 26.892) para informar situaciones de bullying o maltrato en la escuela. Pueden llamar familias, estudiantes y docentes.",
+        "temas": [
+          "bullying"
+        ],
+        "fuente": "https://www.argentina.gob.ar/node/372369",
+        "verificado": "2026-11-16",
+        "pendiente": "Confirmar vigencia antes de la defensa."
+      },
+      {
+        "id": "137",
+        "nombre": "Línea 137 · Violencia familiar, abuso y grooming",
+        "numero": "137",
+        "emoji": "🛡️",
+        "para_chicos": "Si alguien te lastima en tu casa o un desconocido te pide cosas por internet, se puede llamar **gratis al 137**, a cualquier hora.",
+        "detalle": "Línea nacional y gratuita, las 24 h todo el año, para víctimas de violencia familiar o sexual y grooming (opción 1). WhatsApp: 11-3133-1000.",
+        "temas": [
+          "adulto_que_lastima",
+          "contacto_peligroso"
+        ],
+        "fuente": "https://www.argentina.gob.ar/violencia-familiar-y-sexual",
+        "verificado": "2026-11-16"
+      },
+      {
+        "id": "135",
+        "nombre": "Línea 135 · Centro de Asistencia al Suicida",
+        "numero": "135 (CABA y GBA) · 0800-345-1435 (todo el país)",
+        "emoji": "💛",
+        "para_chicos": "Si alguien dice que no quiere vivir más, un adulto puede llamar **gratis al 135** (o al **0800-345-1435** desde cualquier lugar del país).",
+        "detalle": "Centro de Asistencia al Suicida: escucha anónima y gratuita. 135 desde CABA y Gran Buenos Aires; 0800-345-1435 o (011) 5275-1135 desde todo el país.",
+        "temas": [
+          "riesgo_de_vida"
+        ],
+        "fuente": "https://www.asistenciaalsuicida.org.ar",
+        "verificado": "2026-11-16",
+        "pendiente": "Las fuentes no coinciden en el horario (8 a 0 h según la mayoría): verificar."
+      },
+      {
+        "id": "salud_mental",
+        "nombre": "Salud mental · 0800-999-0091",
+        "numero": "0800-999-0091",
+        "emoji": "🧠",
+        "para_chicos": "Para una urgencia de mucha tristeza o angustia, un adulto puede llamar **gratis al 0800-999-0091**, a cualquier hora.",
+        "detalle": "Línea nacional y gratuita de orientación y apoyo en urgencias de salud mental, 24 h los 365 días.",
+        "temas": [
+          "riesgo_de_vida"
+        ],
+        "fuente": "https://www.canal26.com/bienestar-y-salud/2026/09/10/dia-mundial-para-la-prevencion-del-suicidio-no-minimizar-ni-subestimar-las-senales-de-alerta-es-clave-para-actuar-a-tiempo/",
+        "verificado": "2026-11-16",
+        "pendiente": "PENDIENTE: reemplazar la fuente periodística por la página oficial del Ministerio de Salud."
+      }
+    ]
+  }
+}
